@@ -25,13 +25,3 @@ This project implements a real-time face mask detection system using **OpenCV**,
    - A **green box** is drawn around faces where a mask is detected.
    - A **red box** is drawn for faces where no mask is detected.
 4. **Accuracy Display**: The system also displays the accuracy of the mask detection in real-time.
-
-## Installation
-
-### 1. Clone the Repository
-
-Clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/YourUsername/Face-Mask-Detection.git
-cd Face-Mask-Detection
