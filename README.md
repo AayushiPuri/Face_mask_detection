@@ -12,7 +12,7 @@ classification.
 - Green Box: Mask detected
 - Red Box: No mask detected
 - **Multi-Face Recognition**: Simultaneously detects multiple faces in a single frame.
-- **Surveillance Camera Integration**: Can be integrated with surveillance systems to monitor compliance in crowded public spaces.
+- Achieved 98.5% accuracy, displaying real-time feedback with visual cues.
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ classification.
 4. **Real-Time Feedback**: 
    - A **green box** is drawn around faces where a mask is detected.
    - A **red box** is drawn for faces where no mask is detected.
-5. **Accuracy Display**: The system also displays the accuracy of the mask detection in real-time.
+5. **Accuracy Display**: The system also displays the accuracy of the mask detection in real time.
 
 ## Applications
 - **Public Places**: Malls, airports, railway stations, offices, hospitals.
@@ -39,5 +39,6 @@ classification.
 - **Identity Detection**: Linking mask compliance with biometric recognition for enhanced security.
 - **Extended Applications**: Adapting the model to detect facial landmarks and other safety protocols.
 - **High-Resolution Support**: Integration into advanced surveillance systems for improved accuracy.
+
 
 This Face Mask Detector ensures a seamless, automated solution to monitor mask compliance, reducing the need for manual checks in high-traffic areas. 🚀
