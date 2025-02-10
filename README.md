@@ -9,8 +9,8 @@ This project implements a real-time face mask detection system using **OpenCV**,
 classification.
 - **Efficient Image Processing**: OpenCV and NumPy facilitate fast image handling and face detection.
 - **Automated Decision-Making**: Draws bounding boxes around detected faces:
-- Green Box: Mask detected
-- Red Box: No mask detected
+	- Green Box: Mask detected
+	- Red Box: No mask detected
 - **Multi-Face Recognition**: Simultaneously detects multiple faces in a single frame.
 - Achieved 98.5% accuracy, displaying real-time feedback with visual cues.
 
